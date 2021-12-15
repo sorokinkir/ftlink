@@ -1,0 +1,2 @@
+# ftlink
+index.html
